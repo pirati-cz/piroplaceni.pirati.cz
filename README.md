@@ -1,4 +1,6 @@
-# Transparentní hospodaření a rozpočtování České pirátské strany
+# Transparentní hospodaření a rozpočtování
+Aplikace Piroplacení slouží pro účely České pirátské strany.
+
 Hlavní agendou je schvalování a proplácení finančních závazků strany v přímém napojení na FIO banku. Plánován je registr smluv.
 
 ## Zdrojové kódy
